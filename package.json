@@ -1,5 +1,5 @@
 {
-  "name": "form-making",
+  "name": "form-bulid",
   "description": "A designer and generator of form base on Vue.js, make form development simple and efficient.",
   "version": "1.2.10",
   "author": "GavinZhulei",
@@ -11,9 +11,9 @@
     "element-ui",
     "auto"
   ],
-  "repository": { 
+  "repository": {
     "type": "git",
-    "url": "https://github.com/GavinZhuLei/vue-form-making"
+    "url": "https://github.com/Captain-Justin/vue-form-bulid.git"
   },
   "main": "dist/FormMaking.common.js",
   "scripts": {
